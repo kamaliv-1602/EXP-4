@@ -38,15 +38,30 @@ CIRCUIT DIAGRAMS
 
 Half wave rectifier with filter:
 
+![image](https://github.com/kamaliv-1602/EXP-4/blob/main/graph1.jpeg?raw=true)
+
 Bridge rectifier with filter:
 
+![image](https://github.com/kamaliv-1602/EXP-4/blob/main/graph2.jpeg?raw=true)
+
 TABULAR COLUMN
+
 Rectifier without filter
+
+![image](https://github.com/kamaliv-1602/EXP-4/blob/main/WhatsApp%20Image%202026-03-20%20at%2020.37.05.jpeg?raw=true)
+
 TABULAR COLUMN
+
 Rectifier with filter
+
+![image](https://github.com/kamaliv-1602/EXP-4/blob/main/WhatsApp%20Image%202026-03-20%20at%2020.37.05%20(1).jpeg?raw=true)
 
 WAVEFORM:
 
+
+![image](https://github.com/kamaliv-1602/EXP-4/blob/main/grp1.jpeg?raw=true)
+
+![image](https://github.com/kamaliv-1602/EXP-4/blob/main/grp2.jpeg?raw=true)
 
 RESULT:
 
